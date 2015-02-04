@@ -1,0 +1,6 @@
+Guess a number between 1 and 1000!:  500
+Guess with a Higher number!
+Guess a number between 1 and 1000!:  750
+Guess with a lower number!
+Guess a number between 1 and 1000!:  600
+Horay!

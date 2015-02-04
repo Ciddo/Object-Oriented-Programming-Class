@@ -1,0 +1,8 @@
+Enter a value for the radius:   3
+The area of this circle is: 28.27
+Enter a value for the radius:   4
+The area of this circle is: 50.27
+Enter a value for the radius:   6
+The area of this circle is: 113.10
+Enter a value for the radius:   12
+The area of this circle is: 452.39

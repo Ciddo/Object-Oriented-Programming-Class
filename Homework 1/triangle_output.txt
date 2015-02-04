@@ -1,0 +1,26 @@
+Enter the coordinates of your triangle
+Enter X coordinate for first point:  1  
+Enter Y coordinate for first point:  1
+Enter X coordinate for second point:  2
+Enter Y coordinate for second point:  2
+Enter X coordinate for third point:  3
+Enter Y coordinate for third point:  3
+This is not a valid triangle
+
+Enter the coordinates of your triangle
+Enter X coordinate for first point:  9
+Enter Y coordinate for first point:  15
+Enter X coordinate for second point:  20
+Enter Y coordinate for second point:  13
+Enter X coordinate for third point:  20
+Enter Y coordinate for third point:  5
+This is a valid triangle!!!
+
+Enter the coordinates of your triangle
+Enter X coordinate for first point:  2
+Enter Y coordinate for first point:  6
+Enter X coordinate for second point:  11
+Enter Y coordinate for second point:  13
+Enter X coordinate for third point:  8
+Enter Y coordinate for third point:  2
+This is a valid triangle!!!

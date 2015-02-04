@@ -1,0 +1,36 @@
+Enter the info for each circle
+Enter the X coordinate of the origin for circle 1:  5
+Enter the Y coordinate of the origin for cricle 1:  5
+Enter the radius for this circle:  9
+Enter the X coordinate of the origin for circle 2:  5
+Enter the Y coordinate of the origin for cricle 2:  5
+Enter the radius for this circle:  3
+These circles are on top of one another.
+
+Enter the info for each circle
+Enter the X coordinate of the origin for circle 1:  1
+Enter the Y coordinate of the origin for cricle 1:  1
+Enter the radius for this circle:  5
+Enter the X coordinate of the origin for circle 2:  5
+Enter the Y coordinate of the origin for cricle 2:  5
+Enter the radius for this circle:  7
+These circles are overlapping each other.
+
+Enter the info for each circle
+Enter the X coordinate of the origin for circle 1:  3
+Enter the Y coordinate of the origin for cricle 1:  3
+Enter the radius for this circle:  6
+Enter the X coordinate of the origin for circle 2:  10
+Enter the Y coordinate of the origin for cricle 2:  10
+Enter the radius for this circle:  2
+These circles are separate from each other.
+
+Enter the info for each circle
+Enter the X coordinate of the origin for circle 1:  0
+Enter the Y coordinate of the origin for cricle 1:  0
+Enter the radius for this circle:  5
+Enter the X coordinate of the origin for circle 2:  0
+Enter the Y coordinate of the origin for cricle 2:  10
+Enter the radius for this circle:  5
+These circles are touching each other.
+

@@ -1,0 +1,6 @@
+Guess the 3 digit lottery number!
+Enter the First digit 
+Enter the Second digit
+Enter the Third digit
+Your number is: 364
+Sorry you didn't win....

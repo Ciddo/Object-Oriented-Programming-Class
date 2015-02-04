@@ -1,0 +1,4 @@
+Enter the principle:     10000
+Enter the annual interest rate:  3   
+Enter the amount of years:    5 
+Future invement value = 11616.17

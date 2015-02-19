@@ -1,0 +1,2 @@
+Enter the info for each circle
+Enter the X coordinate of the origin for circle 1:  

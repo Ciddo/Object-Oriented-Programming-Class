@@ -1,0 +1,17 @@
+a. The output is “Woof, woof woof!”. This is an example of overloading 
+ 
+b. The output is “I'm a cat, go away!”. The method is overridden because println returns toString
+ 
+c. Will not compile.
+ 
+d. The output is“hw05.Pet@117a8bd”.  Overridden because println returns toString
+ 
+e. The output is “woof!”. Both overloaded but can also be overridden too.
+ 
+f. The output is “Come here, kitty? … Don't waste my time.”.  Overrides the function in object.
+ 
+g. Will not compile, missing a call method in all classes.
+ 
+h. The ouput is “four”.  Inheritance from the Pet class
+ 
+i. Will not compile.
